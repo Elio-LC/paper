@@ -10,3 +10,13 @@ Natural Language Processing in Python.ipynb
 
 # macOS 系统文件
 .DS_Store
+
+
+# ========== 模型文件 ==========
+finbert/
+
+# ========== 训练输出 ==========
+finbert_output/
+
+lstm_model.keras
+
